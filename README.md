@@ -1,4 +1,4 @@
-#о чем trahadrom 2.0 special edition?
+# о чем trahadrom 2.0 special edition?
 
 **trahadrom 2.0 special edition - это многофункциональный рейд-скрипт на aiohttp, который создан для развала жоп пользователей социальной сети вконтакте.**
 
