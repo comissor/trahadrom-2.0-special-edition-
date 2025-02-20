@@ -1,0 +1,8 @@
+aiofiles
+aiohttp
+requests
+vk_api
+vkbottle
+selenium
+ssl
+g4f
