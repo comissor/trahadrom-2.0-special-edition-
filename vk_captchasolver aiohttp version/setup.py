@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from os import name as osn
 
 setup(
-    name='aiohttp_vk_captchasolver',
+    name='vk_captchasolver',
     version='1.0.5',
     author='comissor',
     author_email='None',
