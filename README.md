@@ -12,7 +12,6 @@
 
 ![image](https://github.com/user-attachments/assets/fdb3a7f7-9b26-4dff-bdc6-46cf51acf372)
 
-
 # ФУНКЦИИ
 
 **РАБОТА С КОНФИГОМ**
