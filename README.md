@@ -10,7 +10,7 @@
 
 **!!! СКРИПТ БЫЛ СДЕЛАН СПЕЦИАЛЬНО ПОД Windows И С ДРУГИМИ ОПЕРАЦИОНКАМИ РАБОТАТЬ НЕ БУДЕТ !!!**
 
-![image](https://github.com/user-attachments/assets/57648033-0791-412e-a47b-a782e9a40c72)
+![image](https://github.com/user-attachments/assets/85c98287-be48-4f72-8035-2e3fe3227598)
 
 # ФУНКЦИИ
 
