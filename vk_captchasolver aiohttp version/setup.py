@@ -1,16 +1,12 @@
 from setuptools import setup, find_packages
 from os import name as osn
 
-with open('README.md', 'r', encoding='utf-8') as f:
-    long_description = f.read()
-
 setup(
     name='vk_captchasolver',
     version='1.0.5',
     author='comissor',
     author_email='None',
     description='VKontakte captcha solver with 91% accuracy right /// aiohttp',
-    long_description=long_description,
     long_description_content_type='text/markdown',
     url='None',
     project_urls={
